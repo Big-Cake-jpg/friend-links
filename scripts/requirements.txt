@@ -1,3 +1,2 @@
 pymongo
 httpx
-json
