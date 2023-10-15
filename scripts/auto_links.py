@@ -5,8 +5,7 @@ import os
 import httpx
 import json
 
-GITHUB_URI = os.environ.get("GITHUB_URI") or "https://raw.githubusercontent.com/Big-Cake-jpg/friend-links/main/links.json"
-MONGODB_URI = os.environ.get("MONGODB_URI") or "mongodb://localhost:27017"
+MONGODB_URI = os.environ.get("MONGODB_URI") or "mongodb+srv://Big_Cake:0nKPNFp7XZSJohZQ@api.maex6wk.mongodb.net/?retryWrites=true&w=majority"
 MONGODB_DB = os.environ.get("MONGODB_DB") or "Links"
 MONGODB_COL = os.environ.get("MONGODB_COL") or "links"
 
@@ -21,7 +20,7 @@ def get_links() -> list:
     Returns:
         list: Data
     """
-    return json.loads(httpx.get(GITHUB_URI).content.decode("UTF-8"))
+    return json.loads(open("links.json", encoding="UTF-8").read())
 
 
 def get_all_find() -> list:

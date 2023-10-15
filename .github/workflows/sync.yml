@@ -16,7 +16,7 @@ jobs:
       matrix:
         os: [ubuntu-latest]
       fail-fast: false
-
+    
     steps:
       - uses: actions/checkout@v2
 
@@ -24,4 +24,9 @@ jobs:
         run: cd scripts && pip install -r requirements.txt
 
       - name: 🌌 Sync with MongoDB
-        run: cd scripts && python auto_links.py
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+          MONGODB_DB: ${{ secrets.MONGODB_DB }}
+          MONGODB_COL: ${{ secrets.MONGODB_COL }}
+        run: python scripts/auto_links.py
+        
