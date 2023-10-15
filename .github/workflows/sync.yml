@@ -1,0 +1,29 @@
+name: GitHub Pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "links.json"
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+      fail-fast: false
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - run: cd scripts
+
+      - name: 📦 Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: 🌌 Sync with MongoDB
+        run: python auto_links.py
