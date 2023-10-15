@@ -5,7 +5,7 @@ import os
 import httpx
 import json
 
-MONGODB_URI = os.environ.get("MONGODB_URI") or "mongodb+srv://Big_Cake:0nKPNFp7XZSJohZQ@api.maex6wk.mongodb.net/?retryWrites=true&w=majority"
+MONGODB_URI = os.environ.get("MONGODB_URI") or "mongodb://localhost:27017"
 MONGODB_DB = os.environ.get("MONGODB_DB") or "Links"
 MONGODB_COL = os.environ.get("MONGODB_COL") or "links"
 
