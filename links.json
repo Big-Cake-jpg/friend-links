@@ -72,7 +72,7 @@
     "url": "https://maredevi.fun"
   },
   {
-    "avatar": "https://blog.seayay.top/images/avatar.jpg",
+    "avatar": "https://cravatar.cn/avatar/2b85216d1fdff1fb10ac2c5b58ffe31e",
     "blog": "思遥方的小家",
     "color": "#688DA0",
     "desc": "我永远喜欢温迪",
@@ -94,14 +94,6 @@
     "desc": "Z_Tsin 的个人主页",
     "name": "Z_Tsin",
     "url": "https://ztsin.cn"
-  },
-  {
-    "avatar": "https://blog.raineast.icu/images/souiken.jpg",
-    "blog": "Souiken's Blog",
-    "color": "#d2f043",
-    "desc": "The website only is a blog.",
-    "name": "Souiken",
-    "url": "https://blog.raineast.icu"
   },
   {
     "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2015078351&s=100",
@@ -248,7 +240,7 @@
     "url": "https://xiaojin233.cn"
   },
   {
-    "avatar": "https://cravatar.cn/avatar/c7189f617b5eaa490a4c029fa1607553",
+    "avatar": "https://gravatar.aby.pub/avatar/c7189f617b5eaa490a4c029fa1607553",
     "blog": "荷岭主页",
     "color": "#4CAF50",
     "desc": "一个标准的初三学生",
@@ -312,7 +304,7 @@
     "url": "https://blog.xcnya.cn"
   },
   {
-    "avatar": "https://cdn.niuboss123.com/img/niuboss123/NiuBoss123.jpg",
+    "avatar": "https://cdn.yiair.cc/img/niuboss123/NiuBoss123.jpg",
     "blog": "NiuBoss123",
     "color": "#FECECA",
     "desc": "生命中曾拥有过的所有灿烂，终究都需要用寂寞偿还",
@@ -406,5 +398,21 @@
     "desc": "苦逼医学生",
     "name": "DavidYR",
     "url": "https://www.david03.top"
+  },
+  {
+    "avatar": "https://blog.rkmiao.eu.org/images/profile.webp",
+    "blog": "Phrinky's Blog",
+    "color": "#00BFFF",
+    "desc": "Ricky 的各种日常捏",
+    "name": "Phrinky",
+    "url": "https://blog.rkmiao.eu.org"
+  },
+  {
+    "avatar": "https://phasmaruo.top/logo512.png",
+    "blog": "Phasmaruo的小站",
+    "color": "#115B98",
+    "desc": "Phasmaruo的官方网站，SKW会时不时在上面发疯",
+    "name": "Phasmaruo&SKW",
+    "url": "https://phasmaruo.top"
   }
 ]
