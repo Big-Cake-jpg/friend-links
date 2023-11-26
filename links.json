@@ -422,5 +422,13 @@
     "color": "#e6c9d8",
     "blog": "凌莞喵~",
     "desc": "喵喵喵"
+  },
+  {
+    "url": "https://blog.goodboyboy.top/", 
+    "avatar": "https://gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g", 
+    "name": "GoodBoyboy",
+    "color": "#52e6ff", 
+    "blog": "GoodBoyboy's Blog",
+    "desc": "惬意小屋 - 点滴记忆" 
   }
 ]
