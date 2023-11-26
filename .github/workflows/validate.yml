@@ -18,9 +18,12 @@ jobs:
       fail-fast: false
     
     steps:
+      - uses: actions/checkout@v4
+      
       - name: json-yaml-validate
         uses: GrantBirki/json-yaml-validate@v2.4.0
         with: 
         # List of file paths to validate. Each file path must be on a newline.
           files: links.json
           use_gitignore: false
+          # exclude_file: "*.yaml"
