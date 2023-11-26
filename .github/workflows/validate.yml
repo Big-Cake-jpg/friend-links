@@ -23,5 +23,4 @@ jobs:
         with: 
         # List of file paths to validate. Each file path must be on a newline.
           files: links.json
-          
-        
+          use_gitignore: false
