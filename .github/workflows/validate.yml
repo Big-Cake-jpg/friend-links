@@ -1,0 +1,27 @@
+name: Validate JSON
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "links.json"
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+      fail-fast: false
+    
+    steps:
+      - name: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v2.4.0
+        with: 
+        # List of file paths to validate. Each file path must be on a newline.
+          files: links.json
+          
+        
