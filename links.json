@@ -398,5 +398,13 @@
     "color": "#52e6ff", 
     "blog": "GoodBoyboy's Blog",
     "desc": "惬意小屋 - 点滴记忆" 
+  },
+  {
+    "url": "https://phasmaruo.com",
+    "avatar": "https://blog.phasmaruo.com/avatar.jpg",
+    "name": "Phasmaruo&SKW",
+    "color": "#115B98",
+    "blog": "Phasmaruo和SKW的小站",
+    "desc": "Phasmaruo官网但被SKW私用（屑"
   }
 ]
