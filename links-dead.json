@@ -25,5 +25,14 @@
     "desc": "苦逼高中生的小站",
     "name": "MareDevi",
     "url": "https://maredevi.fun"
-  }
+  },
+  // ERR_CONNECTION_ABORTED
+  {
+    "avatar": "https://jsd.lihaoyu.cn/gh/ciraos/ciraos-static@main/img/avatar1.webp",
+    "blog": "葱苓",
+    "color": "#f9cca2",
+    "desc": "Dare && Do",
+    "name": "Ciraos 葱苓",
+    "url": "https://blog.itciraos.cn"
+  },
 ]
