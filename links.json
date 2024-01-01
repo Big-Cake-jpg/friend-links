@@ -248,12 +248,12 @@
     "url": "https://www.233355607.xyz"
   },
   {
+    "url": "https://blog.sinzmise.top/",
     "avatar": "https://blog.sinzmise.top/img/avatar.png",
-    "blog": "九弦之屋",
-    "color": "#e66744",
-    "desc": "随着风和光来的旅行者，欢迎来到九弦之屋",
     "name": "王九弦SZ·Ninty",
-    "url": "https://blog.sinzmise.top"
+    "color": "#e66744",
+    "blog": "九弦之屋", 
+    "desc": "欢迎旅行者，来到这个平凡但又记载了许多故事的小屋"
   },
   {
     "avatar": "https://api.yimian.xyz/img/?path=imgbed/img_bd4dcd7_210x222_8_null_normal.jpeg",
