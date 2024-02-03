@@ -414,5 +414,13 @@
     "desc": "苦逼高中生的小站",
     "name": "MareDevi",
     "url": "https://maredevi.fun"
+  },
+  {
+    "url": "https://byteloid.one",
+    "avatar": "https://blog.byteloid.one/img/march7th.webp",
+    "name": "Bingxin",
+    "color": "#F19CBB",
+    "blog": "Bingxin Home",
+    "desc": "好久不见。"
   }
 ]
