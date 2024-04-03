@@ -26,4 +26,40 @@
     "name": "Ciraos 葱苓",
     "url": "https://blog.itciraos.cn"
   },
+  // 友链缺失
+  {
+    "avatar": "https://www.maredevi.fun/assets/avatar.jpg",
+    "blog": "MareDevi の Blog",
+    "color": "#df5c9d",
+    "desc": "苦逼高中生的小站",
+    "name": "MareDevi",
+    "url": "https://maredevi.fun"
+  },
+  // ERR_CONNECTION_TIMED_OUT
+  {
+    "url": "https://phasmaruo.com",
+    "avatar": "https://blog.phasmaruo.com/avatar.jpg",
+    "name": "Phasmaruo&SKW",
+    "color": "#115B98",
+    "blog": "Phasmaruo的小站",
+    "desc": "Phasmaruo官网但被SKW私用（屑"
+  },
+  // ERR_CERT_DATE_INVALID
+  {
+    "avatar": "https://p.lanbin.top/i/2023/07/11/64acbc943d82b.png",
+    "blog": "Lanbinの知识库",
+    "color": "#FFB21E",
+    "desc": "一名初(中)生的日常技术生活日记~",
+    "name": "Lanbin",
+    "url": "https://lib.lanbin.top"
+  },
+  // 友链缺失
+  {
+    "avatar": "https://blog.gumezm.eu.org/img/avatar.png",
+    "blog": "孤梦追梦的博客",
+    "color": "#66ccff",
+    "desc": "我总要回归一抔泥土，请你不要哭。",
+    "name": "孤梦追梦",
+    "url": "https://blog.gumezm.eu.org"
+  }
 ]
