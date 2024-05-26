@@ -256,14 +256,6 @@
     "url": "https://blog.histcat.top"
   },
   {
-    "avatar": "https://s1.ax1x.com/2023/07/24/pCOmxrd.png",
-    "blog": "卡平南路",
-    "color": "#49B1F5",
-    "desc": "至少我不再寂寞，你眼神能再闪烁",
-    "name": "KK",
-    "url": "https://kkkrza.link"
-  },
-  {
     "avatar": "https://www.yunyoujun.cn/images/avatar.jpg",
     "blog": "云游君的小站",
     "color": "#0078e7",
@@ -294,14 +286,6 @@
     "desc": "Stay Cool~",
     "name": "Kengwang",
     "url": "https://blog.kengwang.com.cn"
-  },
-  {
-    "avatar": "https://bu.dusays.com/2023/04/14/643955ad1cef4.jpg",
-    "blog": "兔儿轩的博客",
-    "color": "#737a87",
-    "desc": "摸鱼，躺平。",
-    "name": "兔儿轩",
-    "url": "https://blog.rabbitwebs.cn"
   },
   {
     "avatar": "https://npm.elemecdn.com/ytblogimg/webp/logo.webp",
@@ -360,12 +344,12 @@
     "desc": "须知少年拏云志，曾许人间第一流"
   },
   {
-    "avatar": "https://blog.phrk.nl/images/profile.webp",
-    "blog": "Phrinky's Blog",
-    "color": "#00BFFF",
-    "desc": "Ricky 的各种日常捏",
-    "name": "Phrinky",
-    "url": "https://blog.phrk.nl"
+    "avatar": "https://s1.ax1x.com/2023/07/24/pCOmxrd.png",
+    "blog": "卡平南路",
+    "color": "#49B1F5",
+    "desc": "至少我不再寂寞，你眼神能再闪烁",
+    "name": "KK",
+    "url": "https://kkkrza.link"
   },
   {
     "avatar": "https://cdn.skk.moe/avatar/192x192.png",
@@ -373,6 +357,7 @@
     "color": "#bc7e56",
     "desc": "童话只美在真实却从不续写",
     "name": "苏卡卡",
-    "url": "https://blog.skk.moe"
+    "url": "https://blog.skk.moe",
+    "bypass": true
   }
 ]

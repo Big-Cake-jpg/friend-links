@@ -1,0 +1,17 @@
+{
+  "name": "friend-links",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "check": "node check.js"
+  },
+  "keywords": [],
+  "author": "Big_Cake",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
