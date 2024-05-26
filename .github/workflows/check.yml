@@ -5,6 +5,8 @@ on:
   schedule:
     - cron: '0 3 * * *' # Runs every day at 3 AM Beijing time
 
+permissions: write-all
+
 jobs:
   check_links:
     runs-on: ubuntu-latest
