@@ -60,5 +60,41 @@
     "name": "Phrinky",
     "url": "https://blog.phrk.nl",
     "errormsg": "getaddrinfo ENOTFOUND blog.phrk.nl"
+  },
+  {
+    "avatar": "https://www.luochancy.com/wp-content/uploads/2023/07/cropped-cropped-4461212258bc47119d16d91d778e3612.png",
+    "blog": "I'm Luochancy",
+    "color": "#23a7d3",
+    "desc": "一个可爱的男孩纸~",
+    "name": "洛寒兮",
+    "url": "https://www.luochancy.com",
+    "errormsg": "Request failed with status code 403"
+  },
+  {
+    "avatar": "https://ztsin.cn/avatar.png",
+    "blog": "Z_Tsin's Home",
+    "color": "#38A8B6",
+    "desc": "Z_Tsin 的个人主页",
+    "name": "Z_Tsin",
+    "url": "https://ztsin.cn",
+    "errormsg": "socket hang up"
+  },
+  {
+    "avatar": "https://cdn.lowion.cn/img/hade.jpg",
+    "blog": "Williamsun 的博客",
+    "color": "#3f51b5",
+    "desc": "练习 Python 两年半的个人练习生",
+    "name": "WilliamSun",
+    "url": "https://www.lowion.cn",
+    "errormsg": "Request failed with status code 403"
+  },
+  {
+    "avatar": "https://cos.nekorua.com/imgs/head1x2.webp",
+    "blog": "BLxcwg666 の Blog",
+    "color": "#7b95b4",
+    "desc": "静かで奥深い",
+    "name": "BLxcwg666",
+    "url": "https://blog.nekorua.com",
+    "errormsg": "Request failed with status code 403"
   }
 ]
