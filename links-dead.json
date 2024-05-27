@@ -87,14 +87,5 @@
     "name": "WilliamSun",
     "url": "https://www.lowion.cn",
     "errormsg": "Request failed with status code 403"
-  },
-  {
-    "avatar": "https://cos.nekorua.com/imgs/head1x2.webp",
-    "blog": "BLxcwg666 の Blog",
-    "color": "#7b95b4",
-    "desc": "静かで奥深い",
-    "name": "BLxcwg666",
-    "url": "https://blog.nekorua.com",
-    "errormsg": "Request failed with status code 403"
   }
 ]
