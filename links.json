@@ -319,5 +319,13 @@
     "desc": "乾坤未定，你我皆是牛马",
     "name": "栋dong",
     "url": "https://dongdong741236.cn"
-  }
+  },
+  {
+    "url": "https://mashirl.com",
+    "avatar": "https://mashirl.com/images/avatar.jpg",
+    "name": "Mashirl",
+    "color": "#9ecaff",
+    "blog": "Mashirl's Blog",
+    "desc": "无名旅人的自留地"
+}
 ]
