@@ -8,14 +8,6 @@
     "url": "https://blog.amane.icu"
   },
   {
-    "avatar": "https://library.gxres.net/images/icons/avatar.webp",
-    "blog": "Restent's Notebook",
-    "color": "#03a9f4",
-    "desc": "静寂に問う 答えを求めて",
-    "name": "Restent Ou",
-    "url": "https://blog.gxres.net"
-  },
-  {
     "avatar": "https://www.ykuee.link/favicon.ico",
     "blog": "Ykueeの窝",
     "color": "#39C5BB",
@@ -327,5 +319,13 @@
     "color": "#9ecaff",
     "blog": "Mashirl's Blog",
     "desc": "无名旅人的自留地"
-}
+  },
+  {
+    "avatar": "https://static.ohyee.cc/logo.svg",
+    "blog": "OhYee 博客",
+    "color": "#2468ac",
+    "desc": "个人向笔记性质技术分享，共产主义开源编程🤪",
+    "name": "OhYee",
+    "url": "https://www.ohyee.cc"
+  }
 ]
