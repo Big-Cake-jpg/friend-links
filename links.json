@@ -327,5 +327,13 @@
     "desc": "个人向笔记性质技术分享，共产主义开源编程🤪",
     "name": "OhYee",
     "url": "https://www.ohyee.cc"
+  },
+  {
+    "avatar": "https://cdn.lowion.cn/img/hade.jpg",
+    "blog": "Williamsun 的博客",
+    "color": "#3f51b5",
+    "desc": "练习 Python 两年半的个人练习生",
+    "name": "WilliamSun",
+    "url": "https://www.lowion.cn"
   }
 ]
