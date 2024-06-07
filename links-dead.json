@@ -96,5 +96,23 @@
     "name": "Restent Ou",
     "url": "https://blog.gxres.net",
     "errormsg": "Request failed with status code 403"
+  },
+  {
+    "avatar": "https://cravatar.cn/avatar/5af06b461740fb2bd7467b8561399703?s=500",
+    "blog": "岚天小窝",
+    "color": "#489ffe",
+    "desc": "一只鸽子住在这里~",
+    "name": "岚天呀",
+    "url": "https://blog.ltya.top",
+    "errormsg": "Request failed with status code 429"
+  },
+  {
+    "avatar": "https://cdn.lowion.cn/img/hade.jpg",
+    "blog": "Williamsun 的博客",
+    "color": "#3f51b5",
+    "desc": "练习 Python 两年半的个人练习生",
+    "name": "WilliamSun",
+    "url": "https://www.lowion.cn",
+    "errormsg": "Request failed with status code 403"
   }
 ]
