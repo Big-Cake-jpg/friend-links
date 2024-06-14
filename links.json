@@ -311,5 +311,21 @@
     "desc": "乾坤未定，你我皆是牛马",
     "name": "栋dong",
     "url": "https://dongdong741236.cn"
+  },
+  {
+    "avatar": "https://cravatar.cn/avatar/5af06b461740fb2bd7467b8561399703?s=500",
+    "blog": "岚天小窝",
+    "color": "#489ffe",
+    "desc": "一只鸽子住在这里~",
+    "name": "岚天呀",
+    "url": "https://blog.ltya.top"
+  },
+  {
+    "avatar": "https://static.ohyee.cc/logo.svg",
+    "blog": "OhYee 博客",
+    "color": "#2468ac",
+    "desc": "个人向笔记性质技术分享，共产主义开源编程🤪",
+    "name": "OhYee",
+    "url": "https://www.ohyee.cc"
   }
 ]
