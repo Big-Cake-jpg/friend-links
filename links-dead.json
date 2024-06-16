@@ -53,12 +53,12 @@
     "errormsg": "certificate has expired"
   },
   {
-    "avatar": "https://blog.phrk.nl/images/profile.webp",
+    "avatar": "https://blog.rkk.moe/images/profile.webp",
     "blog": "Phrinky's Blog",
     "color": "#00BFFF",
     "desc": "Ricky 的各种日常捏",
     "name": "Phrinky",
-    "url": "https://blog.phrk.nl",
+    "url": "https://blog.rkk.moe",
     "errormsg": "getaddrinfo ENOTFOUND blog.phrk.nl"
   },
   {
