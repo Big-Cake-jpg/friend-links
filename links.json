@@ -327,5 +327,13 @@
     "desc": "个人向笔记性质技术分享，共产主义开源编程🤪",
     "name": "OhYee",
     "url": "https://www.ohyee.cc"
+  },
+  {
+    "avatar": "https://blog.rkk.moe/images/profile.webp",
+    "blog": "Phrinky's Blog",
+    "color": "#00BFFF",
+    "desc": "Ricky 的各种日常捏",
+    "name": "Phrinky",
+    "url": "https://blog.rkk.moe"
   }
 ]

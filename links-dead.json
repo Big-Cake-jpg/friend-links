@@ -53,15 +53,6 @@
     "errormsg": "certificate has expired"
   },
   {
-    "avatar": "https://blog.rkk.moe/images/profile.webp",
-    "blog": "Phrinky's Blog",
-    "color": "#00BFFF",
-    "desc": "Ricky 的各种日常捏",
-    "name": "Phrinky",
-    "url": "https://blog.rkk.moe",
-    "errormsg": "getaddrinfo ENOTFOUND blog.phrk.nl"
-  },
-  {
     "avatar": "https://www.luochancy.com/wp-content/uploads/2023/07/cropped-cropped-4461212258bc47119d16d91d778e3612.png",
     "blog": "I'm Luochancy",
     "color": "#23a7d3",
