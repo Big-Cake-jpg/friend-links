@@ -96,14 +96,5 @@
     "name": "WilliamSun",
     "url": "https://www.lowion.cn",
     "errormsg": "Request failed with status code 403"
-  },
-  {
-    "avatar": "https://dongdong741236.cn/wp-content/uploads/2023/04/%E9%80%8F%E6%98%8E%E5%BA%95%E5%8F%8D%E9%BB%91%E5%9B%BE-e1681661076974.png",
-    "blog": "栋dong的个人站点",
-    "color": "#0c88ed",
-    "desc": "乾坤未定，你我皆是牛马",
-    "name": "栋dong",
-    "url": "https://dongdong741236.cn",
-    "errormsg": "Request failed with status code 500"
   }
 ]
