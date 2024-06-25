@@ -297,14 +297,6 @@
     "url": "https://blog.ltya.top"
   },
   {
-    "avatar": "https://static.ohyee.cc/logo.svg",
-    "blog": "OhYee 博客",
-    "color": "#2468ac",
-    "desc": "个人向笔记性质技术分享，共产主义开源编程🤪",
-    "name": "OhYee",
-    "url": "https://www.ohyee.cc"
-  },
-  {
     "avatar": "https://blog.rkk.moe/images/profile.webp",
     "blog": "Phrinky's Blog",
     "color": "#00BFFF",
@@ -327,5 +319,13 @@
     "desc": "乾坤未定，你我皆是牛马",
     "name": "栋dong",
     "url": "https://dongdong741236.cn"
+  },
+  {
+    "avatar": "https://cravatar.cn/avatar/87225b2c099ad4b76362dcbee833b880",
+    "blog": "流年轻迹",
+    "color": "#1ABB9B",
+    "desc": "走向中国，走向世界",
+    "name": "OliverGao",
+    "url": "https://www.olive-r.cn"
   }
 ]
