@@ -327,5 +327,13 @@
     "desc": "走向中国，走向世界",
     "name": "OliverGao",
     "url": "https://www.olive-r.cn"
+  },
+  {
+    "avatar": "https://static.ohyee.cc/logo.svg",
+    "blog": "OhYee 博客",
+    "color": "#2468ac",
+    "desc": "个人向笔记性质技术分享，共产主义开源编程🤪",
+    "name": "OhYee",
+    "url": "https://www.ohyee.cc"
   }
 ]
