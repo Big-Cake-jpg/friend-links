@@ -248,14 +248,6 @@
     "desc": "好久不见。"
   },
   {
-    "url": "https://flytusky.top",
-    "avatar": "https://widn-img.flytusky.top/webincimg/2024/03/17/65f69437ba4e6.jpg",
-    "name": "Zhuohong's blog",
-    "color": "#87CEFA",
-    "blog": "Zhuohong's blog",
-    "desc": "须知少年拏云志，曾许人间第一流"
-  },
-  {
     "avatar": "https://s1.ax1x.com/2023/07/24/pCOmxrd.png",
     "blog": "卡平南路",
     "color": "#49B1F5",
@@ -321,11 +313,19 @@
     "url": "https://www.ohyee.cc"
   },
   {
-    "avatar": "https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?",
-    "blog": "林林杂语",
-    "color": "#7F9C90",
-    "desc": "温迪和提纳里的狂热粉丝",
-    "name": "林林",
-    "url": "https://www.xiaozonglin.cn"
+    "avatar": "https://cdn.lowion.cn/img/hade.jpg",
+    "blog": "Williamsun 的博客",
+    "color": "#3f51b5",
+    "desc": "练习 Python 两年半的个人练习生",
+    "name": "WilliamSun",
+    "url": "https://www.lowion.cn"
+  },
+  {
+    "avatar": "https://dongdong741236.cn/wp-content/uploads/2023/04/%E9%80%8F%E6%98%8E%E5%BA%95%E5%8F%8D%E9%BB%91%E5%9B%BE-e1681661076974.png",
+    "blog": "栋dong的个人站点",
+    "color": "#0c88ed",
+    "desc": "乾坤未定，你我皆是牛马",
+    "name": "栋dong",
+    "url": "https://dongdong741236.cn"
   }
 ]
