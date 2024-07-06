@@ -16,14 +16,6 @@
     "url": "https://www.ykuee.link"
   },
   {
-    "avatar": "https://jsd.onmicrosoft.cn/avatar/9c0f8598a67f28df877551815a995f49",
-    "blog": "Ian Xia's Blog",
-    "color": "#51ADED",
-    "desc": "Codice est quasi poem a.",
-    "name": "Bigsk",
-    "url": "https://blog.ianxia.com"
-  },
-  {
     "avatar": "https://1kyr.top/avatar.png",
     "blog": "思遥方的小家",
     "color": "#688DA0",
@@ -319,5 +311,13 @@
     "desc": "乾坤未定，你我皆是牛马",
     "name": "栋dong",
     "url": "https://dongdong741236.cn"
+  },
+  {
+    "avatar": "https://cdn.lowion.cn/img/hade.jpg",
+    "blog": "Williamsun 的博客",
+    "color": "#3f51b5",
+    "desc": "练习 Python 两年半的个人练习生",
+    "name": "WilliamSun",
+    "url": "https://www.lowion.cn"
   }
 ]
