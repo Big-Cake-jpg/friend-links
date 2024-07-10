@@ -89,15 +89,6 @@
     "errormsg": "Request failed with status code 403"
   },
   {
-    "avatar": "https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?",
-    "blog": "林林杂语",
-    "color": "#7F9C90",
-    "desc": "温迪和提纳里的狂热粉丝",
-    "name": "林林",
-    "url": "https://www.xiaozonglin.cn",
-    "errormsg": "Hostname/IP does not match certificate's altnames: Host: www.xiaozonglin.cn. is not in the cert's altnames: DNS:*.cdn.myqcloud.com, DNS:*.2144.cn, DNS:*.2144.com, DNS:*.4399.com, DNS:*.5054399.com, DNS:*.58cdn.com.cn, DNS:*.danmu.com, DNS:*.dianping.com, DNS:*.dpfile.com, DNS:*.ffnews.cn, DNS:*.file.myqcloud.com, DNS:*.flash.2144.com, DNS:*.flash.cn, DNS:*.image.myqcloud.com, DNS:*.img4399.com, DNS:*.meituan.net, DNS:*.mykeeta.net, DNS:*.sogoucdn.com, DNS:*.uniqlo.cn, DNS:*.vip.cdngot.com, DNS:*.vod.myqcloud.com, DNS:*.vod2.myqcloud.com, DNS:*.wanyabox.com, DNS:*.zhongcheng818.com, DNS:*.zservey.net, DNS:cdn.myqcloud.com, DNS:nitrome.com.4399.com, DNS:www.miniclip.com.4399pk.com, DNS:xpdl999.aiwan4399.com"
-  },
-  {
     "avatar": "https://jsd.onmicrosoft.cn/avatar/9c0f8598a67f28df877551815a995f49",
     "blog": "Ian Xia's Blog",
     "color": "#51ADED",
@@ -123,5 +114,14 @@
     "name": "WilliamSun",
     "url": "https://www.lowion.cn",
     "errormsg": "Request failed with status code 403"
+  },
+  {
+    "avatar": "https://cos.mbrjun.cn/PICS/LG4v3avatar144px.jpg",
+    "blog": "MBRjun-Blog",
+    "color": "#218bff",
+    "desc": "我们生活在大地上，但我们的梦想超越天空",
+    "name": "MBRjun",
+    "url": "https://www.mbrjun.cn",
+    "errormsg": "Request failed with status code 514"
   }
 ]
