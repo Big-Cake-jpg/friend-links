@@ -114,14 +114,5 @@
     "name": "WilliamSun",
     "url": "https://www.lowion.cn",
     "errormsg": "Request failed with status code 403"
-  },
-  {
-    "avatar": "https://cos.mbrjun.cn/PICS/LG4v3avatar144px.jpg",
-    "blog": "MBRjun-Blog",
-    "color": "#218bff",
-    "desc": "我们生活在大地上，但我们的梦想超越天空",
-    "name": "MBRjun",
-    "url": "https://www.mbrjun.cn",
-    "errormsg": "Request failed with status code 514"
   }
 ]
