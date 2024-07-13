@@ -30,9 +30,7 @@
 我的信息如下：
 
 - 链接：https://lihaoyu.cn
-- 头像（2360x，WebP）：https://blog-api.lihaoyu.cn/avatar
-  - 512x，WebP：https://blog-api.lihaoyu.cn/images/profile/avatar-512x.webp
-  - 128x，WebP：https://blog-api.lihaoyu.cn/images/profile/avatar-128x.webp
+- 头像（128x，WebP）：https://blog-api.lihaoyu.cn/images/profile/avatar-128x.webp
   - Gravatar E-Mail Hash：636d113ce37111d08f08faee780ce9b8
 - 站点名称：晓雨杂记
 - 昵称：Big_Cake / 晓雨
@@ -52,8 +50,8 @@
 下述是一个对你有用的示例：
 ```json
 {
-    "url": "https://lihaoyu.cn",
-    "avatar": "https://blog-api.lihaoyu.cn/avatar",
+    "url": "https://www.lihaoyu.cn",
+    "avatar": "https://blog-api.lihaoyu.cn/images/profile/avatar-128x.webp",
     "name": "Big_Cake",
     "color": "#F2BC57",
     "blog": "晓雨杂记",
