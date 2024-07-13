@@ -29,7 +29,7 @@
 
 我的信息如下：
 
-- 链接：https://lihaoyu.cn
+- 链接：https://www.lihaoyu.cn
 - 头像（128x，WebP）：https://blog-api.lihaoyu.cn/images/profile/avatar-128x.webp
   - Gravatar E-Mail Hash：636d113ce37111d08f08faee780ce9b8
 - 站点名称：晓雨杂记
