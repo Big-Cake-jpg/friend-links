@@ -98,15 +98,6 @@
     "errormsg": "read ECONNRESET"
   },
   {
-    "avatar": "https://cravatar.cn/avatar/87225b2c099ad4b76362dcbee833b880",
-    "blog": "流年轻迹",
-    "color": "#1ABB9B",
-    "desc": "走向中国，走向世界",
-    "name": "OliverGao",
-    "url": "https://www.olive-r.cn",
-    "errormsg": "connect ETIMEDOUT 47.242.58.39:443"
-  },
-  {
     "avatar": "https://cdn.lowion.cn/img/hade.jpg",
     "blog": "Williamsun 的博客",
     "color": "#3f51b5",
