@@ -132,5 +132,14 @@
     "name": "BLxcwg666",
     "url": "https://blog.nekorua.com",
     "errormsg": "Request failed with status code 403"
+  },
+  {
+    "avatar": "https://cdn.lowion.cn/img/hade.jpg",
+    "blog": "Williamsun 的博客",
+    "color": "#3f51b5",
+    "desc": "练习 Python 两年半的个人练习生",
+    "name": "WilliamSun",
+    "url": "https://www.lowion.cn",
+    "errormsg": "Request failed with status code 403"
   }
 ]
