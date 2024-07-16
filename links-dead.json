@@ -98,15 +98,6 @@
     "errormsg": "read ECONNRESET"
   },
   {
-    "avatar": "https://cdn.lowion.cn/img/hade.jpg",
-    "blog": "Williamsun 的博客",
-    "color": "#3f51b5",
-    "desc": "练习 Python 两年半的个人练习生",
-    "name": "WilliamSun",
-    "url": "https://www.lowion.cn",
-    "errormsg": "Request failed with status code 403"
-  },
-  {
     "url": "https://flytusky.top",
     "avatar": "https://widn-img.flytusky.top/webincimg/2024/03/17/65f69437ba4e6.jpg",
     "name": "Zhuohong's blog",
@@ -114,5 +105,32 @@
     "blog": "Zhuohong's blog",
     "desc": "须知少年拏云志，曾许人间第一流",
     "errormsg": "certificate has expired"
+  },
+  {
+    "avatar": "https://cravatar.cn/avatar/6295d2fc44b39b261afe8bf368ffcf72",
+    "blog": "233355607的小站",
+    "color": "#05e4e4",
+    "desc": "草",
+    "name": "233355607",
+    "url": "https://www.233355607.xyz",
+    "errormsg": "Request failed with status code 403"
+  },
+  {
+    "avatar": "https://s1.ax1x.com/2023/07/24/pCOmxrd.png",
+    "blog": "卡平南路",
+    "color": "#49B1F5",
+    "desc": "至少我不再寂寞，你眼神能再闪烁",
+    "name": "KK",
+    "url": "https://kkkrza.link",
+    "errormsg": "Request failed with status code 403"
+  },
+  {
+    "avatar": "https://cos.nekorua.com/imgs/head1x2.webp",
+    "blog": "BLxcwg666 の Blog",
+    "color": "#7b95b4",
+    "desc": "静かで奥深い",
+    "name": "BLxcwg666",
+    "url": "https://blog.nekorua.com",
+    "errormsg": "Request failed with status code 403"
   }
 ]
