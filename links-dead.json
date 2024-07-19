@@ -62,15 +62,6 @@
     "errormsg": "Request failed with status code 403"
   },
   {
-    "avatar": "https://ztsin.cn/avatar.png",
-    "blog": "Z_Tsin's Home",
-    "color": "#38A8B6",
-    "desc": "Z_Tsin 的个人主页",
-    "name": "Z_Tsin",
-    "url": "https://ztsin.cn",
-    "errormsg": "socket hang up"
-  },
-  {
     "url": "https://blog.catchyun.com",
     "avatar": "https://cdn.catchyun.com/favicon.ico",
     "name": "云晓晨CatchYun",
