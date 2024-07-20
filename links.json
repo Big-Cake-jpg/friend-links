@@ -320,5 +320,13 @@
     "desc": "Z_Tsin 的个人主页",
     "name": "Z_Tsin",
     "url": "https://ztsin.cn"
+  },
+  {
+    "avatar": "https://cdn.lowion.cn/img/hade.jpg",
+    "blog": "Williamsun 的博客",
+    "color": "#3f51b5",
+    "desc": "练习 Python 两年半的个人练习生",
+    "name": "WilliamSun",
+    "url": "https://www.lowion.cn"
   }
 ]
