@@ -74,3 +74,5 @@
 - 在整理友链时不小心丢失数据。
 
 你完全可以在出现这种状况时向我提出重新添加友链的要求，但请在发起 Pull Request 时带上 `#LOST` 的 Tag。
+
+感谢 [SerinaNya](https://serinanya.cn) 编写的基于 Python 的新版查活 bot，虽然员代码只在 Chiyoda Network 的内网 Git 仓库中可用。
