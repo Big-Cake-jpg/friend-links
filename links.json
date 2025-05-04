@@ -470,5 +470,13 @@
     "color": "#FFA565",
     "blog": "流年如鸽",
     "desc": "Live a life you will remember."
+  },
+  {
+    "avatar": "https://gravatar.webp.se/avatar/1beae7b1b3ca799888552bfcf9930a4e",
+    "blog": "寒夏摸鱼站",
+    "color": "#fb3936",
+    "desc": "稀奇古怪技术集散地",
+    "name": "寒夏Rainiar",
+    "url": "https://blog.rainiar.top"
   }
 ]
