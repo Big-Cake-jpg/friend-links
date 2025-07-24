@@ -471,7 +471,7 @@
     "name": "寒夏Rainiar",
     "url": "https://blog.rainiar.top"
   },
-{
+  {
     "avatar": "https://github.com/LineXic.png",
     "blog": "LineXic书屋",
     "color": "#fb3936",
@@ -486,5 +486,13 @@
     "desc": "李懋和，俗名李栋梁。书法、国画爱好者，互联网安全与前端建设者。",
     "name": "南蛮子懋和",
     "url": "https://www.dao.js.cn"
-  }  
+  },
+  {
+    "url": "https://suki.ink",
+    "avatar": "https://q.qlogo.cn/g?b=qq&nk=1851466055&s=640",
+    "name": "Hill233",
+    "color": "#CC7A00",
+    "blog": "Hill233的小窝",
+    "desc": "只是一个普普通通的 blog 罢了"
+  }
 ]
