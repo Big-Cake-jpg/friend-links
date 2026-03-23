@@ -502,5 +502,13 @@
     "color": "#ffc0cb",
     "blog": "天天的糖果屋",
     "desc": "Walk softly through the world."
+  },
+  {
+    "url": "https://ski.ink",
+    "avatar": "https://static.ski.ink/avatar.webp",
+    "name": "SALTWOOD",
+    "color": "#fba414",
+    "blog": "盐木的小破窝",
+    "desc": "卷土重来未可知。——杜牧《题乌江亭》"
   }
 ]
