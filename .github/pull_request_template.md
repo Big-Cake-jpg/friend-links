@@ -33,7 +33,6 @@
 此处的选项有助于你的 Pull Request 更快被通过：
 
 - [ ] 我已加入了[「十年之约」](https://foreverblog.cn)
-- [ ] 我已加入了[「开往」](https://github.com/travellings-link/travellings)
 
 ## 备注
 
