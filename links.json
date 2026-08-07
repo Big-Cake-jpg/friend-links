@@ -535,4 +535,13 @@
     "blog": "Linserin Yang's Blog",
     "desc": "小而温馨的空间/因为有你在身边/就不再感觉到害怕 大步走向前"
   }
+  ,
+  {
+    "url": "https://www.pysio.online",
+    "avatar": "https://cdn.akaere.online/https://avatars.githubusercontent.com/u/71202163",
+    "name": "Pysio",
+    "color": "#ecf4fa",
+    "blog": "Pysio's Home",
+    "desc": "一只懒懒的熊猫"
+  }
 ]
