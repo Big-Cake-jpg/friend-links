@@ -534,8 +534,7 @@
     "color": "#F2BC57",
     "blog": "Linserin Yang's Blog",
     "desc": "小而温馨的空间/因为有你在身边/就不再感觉到害怕 大步走向前"
-  }
-  ,
+  },
   {
     "url": "https://www.pysio.online",
     "avatar": "https://cdn.akaere.online/https://avatars.githubusercontent.com/u/71202163",
@@ -543,5 +542,13 @@
     "color": "#ecf4fa",
     "blog": "Pysio's Home",
     "desc": "一只懒懒的熊猫"
+  },
+  {
+    "url": "https://www.20260712.xyz",
+    "avatar": "https://www.20260712.xyz/img/avatar.webp",
+    "name": "RyogiMutsuki",
+    "color": "#66ccff",
+    "blog": "RyogiMutsuki 的小窝",
+    "desc": "愿初心不改，愿热爱长存"
   }
 ]
